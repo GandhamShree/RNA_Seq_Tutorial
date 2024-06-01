@@ -1,0 +1,11 @@
+GO_Term	Ratio	PValue
+Regulation of multicellular organismal process	0.14293305	7.92E-24
+Cell surface receptor signaling pathway	0.13172175	4.52E-18
+Cell differentiation	0.12	3.50E-17
+Positive regulation of multicellular organismal process	0.1592742	6.53E-17
+Cell development	0.13155022	1.00E-15
+Positive regulation of biological process	0.10685249	2.31E-15
+Regulation of developmental process	0.13409962	3.00E-14
+Positive regulation of cellular process	0.10792105	3.55E-14
+Multicellular organism development	0.11478202	4.81E-14
+Anatomical structure morphogenesis	0.12707182	4.03E-13
