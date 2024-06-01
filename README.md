@@ -1,0 +1,1 @@
+This is RNA_seq tutorial to identify differentailly expressed genes. The screenshots clear;y explain how to and why to quality filterbthe data.. The R - scripts for representation of data are also given
